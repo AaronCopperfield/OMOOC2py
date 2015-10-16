@@ -7,9 +7,6 @@
         "disqus"
     ],
     "pluginsConfig": {
-        "disqus":{
         "shortName": "Openmindclub"
     }
-    }
 }
-
