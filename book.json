@@ -1,0 +1,11 @@
+{"title": "itdmb-python",
+    "version": "15.10.14",
+    "description": "python速查手册",
+    "author": "AaronCopperfield <miracle.dong@qq.com>",
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "omooc2py"
+        }
+    } 
+}
